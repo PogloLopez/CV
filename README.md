@@ -1,7 +1,5 @@
 ![Header](header.png)
 
-# 🚀 Make Data Matter
-
 ## 👨 About Me
 Hi, I'm **Nicolas Navarro**, a passionate Data Engineer with expertise in building scalable data solutions using cutting-edge technologies. I specialize in leveraging Python, AWS, and Azure to design robust data pipelines, optimize workflows, and deliver actionable insights. My mission is to transform complex data into meaningful business value.
 
